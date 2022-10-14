@@ -1,0 +1,136 @@
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+    /* background-color: black; */
+    width: 100%;
+    height: 90vh;
+}
+p{
+    color:#fff;
+}
+body{
+    background-color: black;
+}
+#parentDiv{
+position: relative;
+    height: 80vh;
+    margin-top: 5vh;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #fff;
+    /* background-repeat: no-repeat;
+    background-image: url(jennybackground1.jpg); */
+
+
+}
+#logo{
+    position: absolute;
+    inset: 0;
+    margin-top: 10vh;
+margin-left: 40%;
+    /* margin-top: -50vh; */
+    height: 20%;
+    width:20%;
+    /* border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px; */
+}
+#belowLogo{
+    position: absolute;
+    inset: 0;
+    color:rgba(255, 217, 0, 0.74);
+    margin-top: 30vh;
+    font-family:'Times New Roman', Times, serif;
+}
+#soupOne{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 7vh;
+    margin-left:13%;
+}
+#soupTwo{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 20vh;
+    margin-left:7%;
+}
+#fried{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 20vh;
+    margin-left: 23%;
+    
+}
+#jellof{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 7vh;
+    margin-left: 30%;
+}
+#abacha{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 7vh;
+    margin-left: 46%;
+}
+#fish{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 20vh;
+    margin-left: 40%;
+}
+#sausage{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 7vh;
+    margin-left: 62%;
+}
+#meatpie{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 20vh;
+    margin-left: 56%;
+}
+#cakeOne{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 20vh;
+    margin-left: 72%;
+}
+#cakeTwo{
+    position: absolute;
+    inset: 0;
+    height: 12vh;
+    width: 14%;
+    border-radius: 40px;
+    margin-top: 7vh;
+    margin-left: 78%;
+}
