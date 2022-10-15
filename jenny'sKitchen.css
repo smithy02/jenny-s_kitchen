@@ -28,13 +28,16 @@ position: relative;
 #logo{
     position: absolute;
     inset: 0;
-    margin-top: 10vh;
-margin-left: 45%;
+    margin-top: 5vh;
+margin-left: 38%;
     /* margin-top: -50vh; */
-    height: 18vh;
-    width:20vh;
+    height: 20vh;
+    width:25%;
     /* border-bottom-left-radius: 30px;
     border-top-right-radius: 30px; */
+}
+#name{
+    margin-top:-4vh;
 }
 #belowLogo{
     position: absolute;
