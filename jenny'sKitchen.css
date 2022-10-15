@@ -28,7 +28,7 @@ position: relative;
 #logo{
     position: absolute;
     inset: 0;
-    margin-top: 10vh;
+    margin-top: 7vh;
 margin-left: 38%;
     /* margin-top: -50vh; */
     height: 20vh;
@@ -37,7 +37,15 @@ margin-left: 38%;
     border-top-right-radius: 30px; */
 }
 #name{
-    margin-top:-3vh;
+    margin-top:-4vh;
+    margin-bottom: 1vh;
+}
+h3{
+    position: absolute;
+    inset: 0;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+    
 }
 #belowLogo{
     position: absolute;
@@ -49,91 +57,114 @@ margin-left: 38%;
 #soupOne{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
+    margin-top: 9vh;
+    margin-left:7%;
     border-radius: 40px;
-    margin-top: 7vh;
-    margin-left:13%;
+    /* border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px; */
 }
 #soupTwo{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
+    margin-top: 9vh;
+    margin-left:25%;
     border-radius: 40px;
-    margin-top: 20vh;
-    margin-left:7%;
+    /* border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px; */
 }
 #fried{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 20vh;
-    margin-left: 23%;
+    margin-top: 9vh;
+    margin-left: 39%;
     
 }
 #jellof{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 7vh;
-    margin-left: 30%;
+    margin-top: 9vh;
+    margin-left: 61%;
 }
 #abacha{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 7vh;
-    margin-left: 46%;
+    margin-top: 9vh;
+    margin-left: 43%;
 }
 #fish{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 20vh;
-    margin-left: 40%;
+    margin-top: 9vh;
+    margin-left:78%;
 }
 #sausage{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 7vh;
-    margin-left: 62%;
+    margin-top: 25vh;
+    margin-left: 8%;
 }
 #meatpie{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 20vh;
-    margin-left: 56%;
+    margin-top: 40vh;
+    margin-left: 12%;
 }
 #cakeOne{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 20vh;
-    margin-left: 72%;
+    margin-top: 40vh;
+    margin-left: 73%;
 }
 #cakeTwo{
     position: absolute;
     inset: 0;
-    height: 12vh;
-    width: 14%;
+    height: 18vh;
+    width: 15%;
     border-radius: 40px;
-    margin-top: 7vh;
-    margin-left: 78%;
+    margin-top: 25vh;
+    margin-left: 77%;
+}
+#order{
+    position: absolute;
+    inset: 0;
+    top:28vh;
+}
+.services{
+    color:rgba(255, 217, 0, 0.74) ;
+    font-size: 18px;
+    
+}
+#telelogo{
+    width: 18px;
+    height: 18px;
+}
+#whatsapplogo{
+    margin-top: 2vh;
+    width: 18px;
+    height: 18px;
 }
